@@ -35,6 +35,5 @@ def apply_demo_fixture(env: str = "staging") -> None:
     # TODO: implement once Organization model interface is defined
     # Track: achimdehnert/platform#248 Folge-Issue
     raise NotImplementedError(
-        "apply_demo_fixture() is not yet implemented. "
-        "Track: achimdehnert/platform#248 Folge-Issue."
+        "apply_demo_fixture() is not yet implemented. Track: achimdehnert/platform#248 Folge-Issue."
     )
